@@ -10,6 +10,8 @@ namespace GIT_Lesson
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
